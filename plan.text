@@ -1,0 +1,37 @@
+1. Introduction Python and Numpy:
+ - Why python.
+ - Background in python.
+ - Case study: Soccer Data Analysis : 5 step in data science and how to use python (Jupyter notebook)
+ - Why numpy.
+ - Numpy basic : 
+   + Numpy arrays.
+   + Array functions.
+   + Data processing using arrays.
+   + Linear algebra with Numpy.
+   + Numpy random numbers.
+ - Cleaning the data with Numpy (Jupyter notebook) 
+2. Accessing APIs.
+ - APIs Requests.
+ - Facebook API.
+ - Twitter API.
+3. Creating a simple web crawler.
+ - Intro to Web-Crawling in python.
+ - Where to find the data.
+ - Simple web crawler (Jupyter notebook)
+4. Reading XML & JSON.
+ - Introduce to XML.
+ - Fundamentals Of XML.
+ - Parsing XML.
+ - Practice in XML with extracting data and handling attribute(Jupyter notebook)
+ - Intro to JSON.
+ - Data modeling in JSON.
+ - Reading JSON .
+ - JSON playground(Jupyter notebook)
+5. Using BeautifulSoup for parsing html.
+ - Intro BeautifulSoup.
+ - Begin to build our http request.
+ - Form Element.
+ - Practice parsing HTML with BeautifulSoup (Jupyter notebook)
+6. Dealing with Unicode.
+ - Unicode HOWTO.
+
